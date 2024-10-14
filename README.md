@@ -33,7 +33,7 @@ python detect.py --image <image_path>
 - mAP: 0.895
 
 ## Contributors
-- Debendra Muduli
+- Proff. Dr. Debendra Muduli
 - Aman Ujwal Toppo
 - Vikrant Singh
 - Mahendra Singh
